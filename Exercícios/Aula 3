@@ -1,17 +1,13 @@
-<html>
+<html lang="pt-br">
 
-  <head> 
-    
-    <tittle> Exercícios Aula 3 </tittle>
-    
-    <meta charset="utf-8">
- 
- </head>
- 
+    <head> 
+          <title> Exercícios Aula 3 </title>
+        <meta charset="utf-8">
+    </head>
 
     <body>
 
-      <h1> Exercício 1 </h2>
+      <h1> Exercício 1 </h1>
 
       <h2> Lista de compras </h2>
       
@@ -49,15 +45,15 @@
           <h2> Top 10 países </h2>
         
         <ol start="1">
-            
-            
-        
-        
-        
-        
-        
+           
+          <li> Brasil </li>
+          <li> Argentina </li>
+          <li> Japão </li>
+          <li> Portugal </li>
+          <li> Canada </li>
         </ol>
+        
         
     </body>
 
-</html>
+  </html>
