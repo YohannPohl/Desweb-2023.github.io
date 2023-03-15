@@ -1,1 +1,41 @@
-<html>
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Conteúdos Fraseados</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+		<h1> Conteúdos Fraseados </h1>	
+		<hr>
+		<h2>Texto em itálico</h2>
+		<p> Um texto em <i>itálico</i>.</p>		
+     <p> Um texto em <em>itálico com enfâse</em>.</p>
+
+		<h2>Texto em negrito</h2>
+		<p> Um texto em <b>negrito</b>.</p>		
+     <p> Um texto em <strong>negrito com enfâse</strong>.</p>
+
+		<h2>Texto destacado</h2>		
+     <p> Um texto em <mark>destacado</mark>.</p>		
+
+		<h2>Texto riscado</h2>     
+     <p> Um texto em <s>riscado</s>.</p>	
+
+		<h2>Texto subescrito e sobreescrito</h2>		
+     <p> H<sub>2</sub>O e x<sup>2</sup></p>	
+
+		<h2>Texto small</h2>		
+		<p> Um texto de <small>rodapé</small>.</p>	
+
+		<h2>Texto code</h2>	
+		<code>print("Hello World") <> </code>	
+
+		<h2>Espaçamento entre as palavras <></h2>		  
+		<p>um espaço &nbsp &nbsp &nbsp extra</p>
+    <h2>Pulo de linha</h2>  
+		<p>uma linha <br><br><br><br> nova </p>  
+
+    <h2>Linha horizontal</h2>
+		<hr>
+    </body>
+</html>
