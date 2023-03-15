@@ -20,6 +20,88 @@
 
 
     </ol>
+    
+    <br>
+		
+		<h2>Texto com rodapé</h2>
+		
+			<p>
+				&nbsp; Lorem ipsum dolor sit<sup>1</sup> amet, consectetur adipiscing elit. 
+				Nam luctus enim ut quam ultricies ultricies<sup>2</sup>. 
+				Suspendisse sit amet justo pharetra, tempus dui id, semper purus. 
+				Etiam vulputate dignissim urna a elementum. Donec iaculis lobortis suscipit. 
+				Morbi interdum augue sem. Orci<sup>3</sup> varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
+				Mauris pharetra lacus eu blandit efficitur. Fusce<sup>4</sup> venenatis nibh sapien. 
+				Curabitur ultricies sollicitudin pretium. Vestibulum mattis porta est, vitae ultricies felis cursus et. 
+				Aenean non nibh in arcu congue malesuada id et sem.
+			</p>
+
+			<p>
+				&nbsp; Quisque fringilla<sup>5</sup> ante vitae tortor vehicula, ac dapibus urna tristique. 
+				Sed imperdiet laoreet sapien<sup>6</sup> ac vestibulum. 
+				Morbi nec imperdiet nisl, sit amet luctus tellus. 
+				Vivamus augue lorem, consequat sed dignissim in, vehicula at sapien. 
+				Nam aliquam ipsum id arcu dapibus aliquam. Morbi id arcu lacus. 
+				Donec eget aliquam felis. Lorem ipsum dolor sit amet, consectetur<sup>7</sup> adipiscing elit. 
+				Vestibulum aliquam, sapien sed fringilla rutrum, erat dui cursus mi, et suscipit tortor risus sit amet arcu. 
+				Nunc tincidunt est elit.
+			</p>
+
+			<p>
+				&nbsp; Nam ac diam arcu<sup>8</sup>. 
+				Duis sit amet lectus eget tellus placerat scelerisque non id lorem. 
+				Pellentesque et nunc lacinia, gravida neque a, ultricies libero. 
+				Nulla facilisi. Suspendisse id imperdiet tortor. 
+				Nam auctor, erat eget blandit feugiat, ipsum turpis faucibus ligula, nec interdum mi ante vitae sem. 
+				Nunc laoreet magna in nulla convallis<sup>9</sup>, a placerat libero convallis. 
+				Duis volutpat commodo blandit. Nulla maximus consectetur sapien non pellentesque. 
+				Proin porta varius neque non dignissim. 
+				Donec dignissim eros id augue laoreet, vitae porttitor<sup>10</sup> massa rhoncus.
+			</p>
+		
+		<br><br>
+		
+		<hr>
+		
+			<sup>1</sup>.<small>Não sei</small> &nbsp; <sup>2</sup>.<small>Não sei também</small>
+			<small>3 Não sei, sem sup</small> <sup>4</sup> <small>Não sei também sem ponto mas com espaço padrão</small>
+			<br><sup>5</sup><small>Não sei denovo sem espaço padrão</small> <sup>5.1</sup> <small>Em outra linha também</small>
+
+		<hr>
+		<h6>
+			&nbsp;&nbsp;
+			&nbsp;&nbsp;
+			&nbsp;&nbsp;
+			&nbsp;&nbsp;
+			&nbsp;&nbsp;
+			&nbsp;&nbsp;
+			&nbsp;&nbsp;
+			&nbsp;Outra categoria no rodapé
+		</h6>
+
+		<hr>
+		
+			<sup>6</sup> <small>Alguém sabe latim por aqui?</small> <sup>7</sup> <small>Eu não sei...</small>
+			<sup>8</sup> <small>faz parte</small> <sup>9</sup> &nbsp;&nbsp;&nbsp;&nbsp; <small>Fugindo do 9</small>
+			&nbsp; <sup>10</sup> <small>espaçamento bunito</small>
+		<hr>
+		
+		<!--como mudar de posição as frases--> 
+	
+		<h2>Explicando expressões</h2>
+			
+			<p><b>Love</b> = <i>Amor</i></p>
+			<p><b>Shoes</b> = <i>Sapato</i></p>
+			<p><b>Bonjour</b> = <i>Bom dia</i></p>
+			<p><b>Bonsoir</b> = <i>Boa noite ZzZzZz</i></p>
+		<hr>
+
+			<p> <b>Bom dia Alunos!!!</b> Hoje teremos matemática discreta, blá blá blá </p>
+
+		<hr>
+
+    </body>
+</html>
 
   </body>
   
