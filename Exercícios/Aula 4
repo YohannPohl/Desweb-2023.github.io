@@ -95,8 +95,11 @@
 			<p><b>Bonjour</b> = <i>Bom dia</i></p>
 			<p><b>Bonsoir</b> = <i>Boa noite ZzZzZz</i></p>
 		<hr>
+		
 
-			<p> <b>Bom dia Alunos!!!</b> Hoje teremos matemática discreta, blá blá blá </p>
+		<h2> Texto que comece com <b>NEGRITO</b> <h2>
+		
+			<p> <b>Bom dia Alunos!!!</b> Hoje teremos matemática discreta, blá blá blá... </p>
 
 		<hr>
 
