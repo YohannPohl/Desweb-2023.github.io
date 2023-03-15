@@ -1,3 +1,5 @@
+
+<!--Dúvidas--!>
 <html lang="pt-br">
   <head> 
     
@@ -97,7 +99,17 @@
 		<hr>
 		
 
-		<h2> Texto que comece com <b>NEGRITO</b> <h2>
+		<h2> Texto que comece em <b>NEGRITO</b> 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
+			<b>Oi no centro</b></h2> 
+			
+			<!--Como que eu coloco os dois na mesma frase-->
+			<!--Como diminuir a letra no meio da frase-->
+		
+		<h4 align="center"> Oi no centro</h4>
 		
 			<p> <b>Bom dia Alunos!!!</b> Hoje teremos matemática discreta, blá blá blá... </p>
 
