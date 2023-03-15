@@ -1,0 +1,26 @@
+<html lang="pt-br">
+  <head> 
+    
+    <meta charset="utf=8">
+    <title> EXERCÍCIO DA AULA 4 </title>
+  
+  </head>
+  
+  <body>
+ 
+    <h2> Lista de afazeres </h2>
+    <ol>
+      
+
+      <li style="font-size: 20px;"><b> Lavar o carro </b></li>
+      <li style="font-size: 20px;"><s> Ajudar mamãe </s> </li>
+      <li style="font-size: 20px;"><s> Esconder o corpo </s></li>
+      <li style="font-size: 20px;"><b> Achar o lugar do X </b></li>
+      <li style="font-size: 20px;"><b> Receber do Resgate </b></li>
+
+
+    </ol>
+
+  </body>
+  
+  </html>
