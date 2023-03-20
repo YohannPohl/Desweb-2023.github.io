@@ -11,6 +11,16 @@
 	</figure>
       <a href="https://www.baidu.com"> Clique aqui para não receber vírus.</a>  
       <h4> ou "a href="nome do arquivo.html" </h4> 
+     <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+     <a href="#secao_06">Ir para a seção 6</a>
       <br>
       <br>
       <br>
@@ -20,7 +30,6 @@
       <br>
       <br>
       <br>
-     <a href"#secao_06>Ir para a seção 6</a>
       <br>
       <br>
       <br>
@@ -33,15 +42,6 @@
       <br>
       <br>
       <br>
-      <br><br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <h3 id="secao_06>Seção 6</h3>
+      <h3 id="secao_06">Seção 6</h3>
   </body>
 </html>
