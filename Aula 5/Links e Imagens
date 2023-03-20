@@ -10,5 +10,6 @@
       <figurecaption>Figura 1. Flor azul</figurecaption>
 	</figure>
       <a href="https://www.baidu.com"> Clique aqui para não receber vírus.</a>  
+      <h4> ou "a href="nome do arquivo.html" </h4> 
   </body>
 </html>
